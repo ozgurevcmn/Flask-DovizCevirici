@@ -18,7 +18,7 @@ This Flask web application allows users to convert currencies using real-time ex
 ## Usage:
 1. Clone the repository to your local machine.
 2. Install the required dependencies (`Flask`).
-3. Obtain an API access key from Fixer.io and replace `"SizinAccessTokenınız"` in the Python script with your API key.
+3. Obtain an API access key from Fixer.io and replace `"Your_Token"` in the Python script with your API key.
 4. Run the Flask application (`python app.py`) and access it through your web browser.
 
 ## File Structure:
