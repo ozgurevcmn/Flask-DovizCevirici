@@ -1,7 +1,7 @@
 from flask import Flask,render_template,request
 import requests
 
-api_key = "YourToken"
+api_key = "Your_Token"
 
 url = "http://data.fixer.io/api/latest?access_key=" + api_key
 
